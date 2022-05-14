@@ -11,4 +11,12 @@ l’analyse en composants principale se base sur deux étapes indispensables :
 
 
 
+la première étape consiste a calculer la matrice de covariance de nos de variables et comment les données évoluent les unes par rapport aux autres
+
+
+
+la deuxième étape  vise à déterminer les vecteurs propres de cette matrice, ce qui facilite l'interprétation de la matrice puis, on projette les données sur ces axes 
+
+
+
 
