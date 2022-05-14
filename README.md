@@ -3,3 +3,7 @@ La réduction de la dimension est l’application la plus importante dans l’ap
 
 
 Cet algorithme consiste à réduire  la complexité superflue , tout en projetant les données dans un espace de plus petite dimensions qui contient moins de variables et dans des axes appelés "composants principaux". On cherche dans cet algorithme de minimiser la distance entre nos points et leurs projections De cette manière on réduit la dimension de notre dataset, avec le préserve de  la variance de nos données, on va simplifier les données sans perdre trop d’informations. Pour obtenir la projection la plus fidèle possible
+
+
+
+
