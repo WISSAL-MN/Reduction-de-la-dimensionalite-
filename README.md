@@ -7,3 +7,4 @@ Cet algorithme consiste à réduire  la complexité superflue , tout en projetan
 
 
 
+l’analyse en composants principale se base sur deux étapes indispensables :
