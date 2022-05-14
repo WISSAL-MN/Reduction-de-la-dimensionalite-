@@ -20,3 +20,11 @@ la deuxième étape  vise à déterminer les vecteurs propres de cette matrice, 
 
 
 
+
+
+
+
+
+
+
+
